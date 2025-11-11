@@ -1,0 +1,21 @@
+# Archivos compilados de Java
+*.class
+*.jar
+*.war
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.iml
+
+# Carpeta de build
+target/
+build/
+bin/
+
+# Archivos de log
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
