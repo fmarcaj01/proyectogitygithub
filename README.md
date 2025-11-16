@@ -1,9 +1,26 @@
+Calculadora en Java
 
-Descripción
-Una calculadora básica para realizar operaciones simples y subirlo a GitHub.
+Descripcion:
+Una calculadora simple en Java para practicar Git y GitHub.
 
-Integrantes del equipo
-- [Franz Marca Jiménez]
+Integrante:
+- Franz Marca Jimenez
 
-Para compilar:
-javac Calculadora.java
+Caracteristicas:
+- Suma
+- Resta
+- Multiplicación
+- División
+
+Como usar:
+1. Abrir CMD e introducir y llegar al archivo mediante cd
+2. Compilar: javac Calculadora.java
+3. Luego ejecutar: java Calculadora
+4. El programa pide dos numeros
+5. Muestra las cuatro operaciones
+
+Los resultados salen asi:
+Suma: 15
+Resta: 5  
+Multiplicacion: 50
+Division: 2
