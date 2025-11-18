@@ -6,7 +6,7 @@ Una calculadora simple en Java para practicar Git y GitHub.
 Integrante:
 - Franz Marca Jiménez
 - Javier Rivera Delgado
-
+- Sara Moreno Carmona
 Caracteristicas:
 - Suma
 - Resta
