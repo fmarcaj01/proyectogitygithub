@@ -4,7 +4,8 @@ Descripcion:
 Una calculadora simple en Java para practicar Git y GitHub.
 
 Integrante:
-- Franz Marca Jimenez
+- Franz Marca Jiménez
+- Javier Rivera Delgado
 
 Caracteristicas:
 - Suma
