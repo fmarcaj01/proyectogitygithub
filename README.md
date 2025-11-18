@@ -8,7 +8,7 @@ Integrantes:
 - Javier Rivera Delgado
 - Sara Moreno Carmona
 
-Caracteristicas:
+Operaciones:
 
 - Suma
 - Resta
